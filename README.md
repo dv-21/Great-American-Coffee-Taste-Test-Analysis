@@ -1,6 +1,6 @@
 # Great-American-Coffee-Taste-Test-Analysis
 
-## **Instructions on How to Run the Programs**
+## **Instructions on How to Run the Program**
 
 ### **For Devendra's Analysis**
 
